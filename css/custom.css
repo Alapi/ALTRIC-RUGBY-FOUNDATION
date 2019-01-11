@@ -1,0 +1,45 @@
+
+.hero2{
+    background-image: url("../img/image-3.jpg");
+    height: 68vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero3{
+    background-image: url("../img/image-15.jpg");
+    height: 68vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero4{
+    background-image: url("../img/image-14jpg.jpeg");
+    height: 68vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+.navbar{
+    background-color: black;
+
+
+}
+body{
+    background-color:white;
+    font-style: italic;
+    text-decoration-color: white
+   
+}
+
+.item  img{
+    height: 40vh;
+    width: 100%;
+}
+.below-image{
+    margin-top: 50px;
+}
+
+
